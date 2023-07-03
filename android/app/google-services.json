@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407721278683",
+    "project_id": "notifi-466bc",
+    "storage_bucket": "notifi-466bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407721278683:android:37b9b4ed058ba74e80e0fe",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407721278683-hb38qov2n079gsrnr9kep6q074u91pa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNja6JVZJu1HAiXG00gB3PG9i4U0L-QuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407721278683-hb38qov2n079gsrnr9kep6q074u91pa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
